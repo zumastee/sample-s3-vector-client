@@ -81,4 +81,9 @@ python s3vectors_example.py
 ## References
 
 - [boto3 official documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
-- [types-boto3-full 1.39.7 (PyPI)](https://pypi.org/project/types-boto3-full/1.39.7/)
+- [Amazon S3 Vectors Preview Announcement (What's New)](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-s3-vectors-preview-native-support-storing-querying-vectors/)
+- [Amazon S3 Vectors Features](https://aws.amazon.com/s3/features/vectors/)
+- [Amazon S3 Vectors User Guide](https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-vectors.html)
+- [AWS Blog: Introducing Amazon S3 Vectors](https://aws.amazon.com/blogs/aws/introducing-amazon-s3-vectors-first-cloud-storage-with-native-vector-support-at-scale/)
+- [Amazon S3 Vectors Getting Started Guide](https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-vectors-getting-started.html)
+- [s3vectors-embed-cli (GitHub)](https://github.com/awslabs/s3vectors-embed-cli)
